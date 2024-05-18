@@ -6,5 +6,8 @@
   "types": "src/index.ts",
   "devDependencies": {
     "@casl/ability": "^6.7.1"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
   }
 }

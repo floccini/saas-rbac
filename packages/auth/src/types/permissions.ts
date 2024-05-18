@@ -1,4 +1,4 @@
-import { AppAbility } from './../src/index';
+import { AppAbility } from '..';
 import { AbilityBuilder } from '@casl/ability';
 
 export type PermissionsByRole = (
